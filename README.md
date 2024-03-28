@@ -1,7 +1,7 @@
 # TYPESCRIPT--BLANKTEMPLATE-
 BLANK TEMPLATE WORKS WITHOUT PROBLEMS
 
-// //install node js
+// //install node js <br>
 // // open project folder in terminal
 // // npm init -y
 // // npm install typescript -g
